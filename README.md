@@ -1,8 +1,8 @@
 # Sistema Automático de Clasificación de Frutas
 
-**Universidad:** Universidad Católica Boliviana "San Pablo"  
-**Materia:** Sistemas Embebidos II  
-**Docente:** Msc. Ing. Alan Cornejo Q.  
+**Universidad:** Universidad Católica Boliviana "San Pablo"
+**Materia:** Sistemas Embebidos II
+**Docente:** Msc. Ing. Alan Cornejo Q.
 **Semestre:** 1/2026
 
 **Estudiantes:**
