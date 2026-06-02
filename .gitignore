@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+.env.local
+
+# ESP32 / IDF build artifacts
+esp32/*/build/
+esp32/*/.vscode/
+esp32/*/*.old
+esp32/*/sdkconfig.old
+esp32/*/dependencies.lock
+esp32/**/.clang-format
+esp32/**/.clangd
+esp32/**/.cproject
+esp32/**/.project
+esp32/**/.settings/
+
+# Machine Learning
+ml/models/*.pt
+ml/models/*.onnx
+ml/datasets/raw/
+ml/logs/
+
+# Logs generados en runtime
+rpi/logs/
+*.log
+*.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Datos sensibles (no commitear credenciales reales)
+config_local.yaml
+credentials.json
+secrets.py
+
+# OS
+.DS_Store
+Thumbs.db

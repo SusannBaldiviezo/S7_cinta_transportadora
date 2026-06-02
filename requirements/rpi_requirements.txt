@@ -1,0 +1,5 @@
+# Dependencias Python para la Raspberry Pi y PC central
+# Instalar con: pip install -r rpi_requirements.txt
+
+paho-mqtt>=1.6.0
+pyserial>=3.5

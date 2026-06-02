@@ -1,0 +1,13 @@
+# Dependencias para desarrollo ESP32 con ESP-IDF
+# Documentación: https://docs.espressif.com/projects/esp-idf/
+
+# ESP-IDF versión mínima requerida: v5.0
+# Instalar desde: https://dl.espressif.com/dl/esp-idf/
+
+# Componentes IDF utilizados (se instalan automáticamente via idf_component.yml):
+#   espressif/mqtt: cliente MQTT para ESP32
+
+# Herramientas necesarias:
+#   idf.py          -- build, flash, monitor
+#   esptool.py      -- flasheo del firmware
+#   menuconfig      -- configuración del proyecto

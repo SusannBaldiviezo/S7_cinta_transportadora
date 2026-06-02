@@ -1,0 +1,6 @@
+# Dependencias Python para el módulo de visión artificial
+# Instalar con: pip install -r ml_requirements.txt
+
+opencv-python>=4.8.0
+numpy>=1.24.0
+paho-mqtt>=1.6.0
