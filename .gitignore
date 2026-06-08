@@ -44,3 +44,15 @@ secrets.py
 # OS
 .DS_Store
 Thumbs.db
+
+# modelos de deep learning
+ml/models/*.pt
+
+# carpetas de imágenes y entrenamientos locales
+ml/dataset/
+ml/dataset_yolo/
+ml/runs/
+
+# archivos del sistema y cache
+__pycache__/
+.DS_Store
